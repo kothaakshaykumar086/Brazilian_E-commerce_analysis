@@ -5,12 +5,12 @@
 - [x] Define the business problem.
 - [x] Identify stakeholders and business questions.
 - [x] Establish preliminary KPI definitions.
-- [ ] Validate repository documentation.
-- [ ] Publish the first project commit.
+- [x] Validate repository documentation.
+- [x] Publish the first project commit.
 
 ## Phase 2 — Data Acquisition and Quality
-- [ ] Download and document the Olist dataset.
-- [ ] Inventory source tables and relationships.
+- [x] Download and document the Olist dataset.
+- [x] Inventory source tables and relationships.
 - [ ] Inspect missing values, duplicates, and identifier integrity.
 - [ ] Document data quality issues and handling decisions.
 
